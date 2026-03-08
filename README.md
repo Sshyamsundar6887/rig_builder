@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/favicon.ico" alt="RIG-Builder Logo" width="100" />
+  <h1 style="font-size: 3rem; margin-bottom: 0;">🖥️</h1>
   <h1>🖥️ RIG-Builder</h1>
   <p><strong>Your Personal AI-Powered PC Building Assistant</strong></p>
 
@@ -7,7 +7,6 @@
   [![Flask](https://img.shields.io/badge/Flask-Web%20App-black.svg?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
   [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange.svg?style=for-the-badge&logo=googlegemini)](https://ai.google.dev/)
   [![Groq](https://img.shields.io/badge/AI-Groq%20Llama%203-red.svg?style=for-the-badge)](https://groq.com/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 </div>
 
 <br />
