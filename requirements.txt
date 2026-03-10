@@ -7,3 +7,4 @@ fpdf2==2.8.3
 python-dotenv==1.1.0
 google-generativeai==0.8.5
 groq==0.25.0
+psycopg2-binary==2.9.11
